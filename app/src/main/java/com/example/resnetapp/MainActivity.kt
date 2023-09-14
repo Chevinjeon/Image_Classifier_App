@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity() {
         var labels = application.assets.open("labels.txt").bufferedReader().readLines()
 
 
-        // image processor
+        // image processor to use
         var imageProcessor = ImageProcessor.Builder()
          //   .add(NormalizeOp(0.0f, 255.0f))
          //   .add(TransformToGrayscaleOp())
