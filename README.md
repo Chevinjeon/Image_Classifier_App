@@ -8,3 +8,4 @@ Deploying a machine learning/ deep learning model on android app studio. \\
 6 - Handling permissions
 7 - Loading the TensorFlow tfflite model
 8 - Making predictions to the bitmap
+Android UI hierarchy architecture Capture Image, Select Image and Predict class and editText using coroutines for use cases like making network calls and accessing local data for inputting server URL (IP address and port) using principles of Unidirectional Data Flow 
